@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Rishita_ArtWebApplication\Rishita_ArtWebApplication\bin\Rishita_ArtWebApplication.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\Rishita_ArtWebApplication\Rishita_ArtWebApplication\bin\Rishita_ArtWebApplication.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Rishita_ArtWebApplication\Rishita_ArtWebApplication\obj\Debug\Rishita_ArtWebApplication.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\Rishita_ArtWebApplication\Rishita_ArtWebApplication\obj\Debug\Rishita_ArtWebApplication.pdb
+C:\Users\LENOVO\documents\visual studio 2010\Projects\Rishita_ArtWebApplication\Rishita_ArtWebApplication\obj\Debug\Rishita_ArtWebApplication.csprojResolveAssemblyReference.cache
